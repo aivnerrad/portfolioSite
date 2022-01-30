@@ -17,6 +17,9 @@
     color: #313628;
     font-weight: bold;
   }
+  p{
+    text-indent: 30px;
+  }
   #navbar {
     position: fixed;
     top: 5px;
